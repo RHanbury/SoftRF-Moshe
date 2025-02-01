@@ -1,7 +1,7 @@
 # SkyView
 RHanbury has forked this to work on the SkyView part of the project only.
 * Rotating icons were added by Nick Bonniere with Moshe Braner.
- * R Hanbury forked from Moshe Braner on 30/1/2025 and continued to edit.
+ * Rob Hanbury forked from Moshe Braner on 30/1/2025 and continued to edit.
  *  Make Alarms and Screens clearer and a couple of other preferences.
  *  Main objective is to make a LED Rose type and focussed alarm screen.
  *  And make ring display for transponder reception.
