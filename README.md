@@ -1,4 +1,4 @@
-**#SkyView**
+# SkyView
 RHanbury has forked this to work on the SkyView part of the project only.
 * Rotating icons were added by Nick Bonniere with Moshe Braner.
  * R Hanbury forked from Moshe Braner on 30/1/2025 and continued to edit.
